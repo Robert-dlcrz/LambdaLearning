@@ -1,0 +1,4 @@
+target/HelloWorldLambdaJava-1.0-SNAPSHOT.jar
+target/lambda.jar
+target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst
+target/original-lambda.jar
